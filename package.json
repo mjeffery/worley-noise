@@ -1,0 +1,28 @@
+{
+  "name": "worley-noise",
+  "version": "0.0.0",
+  "description": "Simple proof of concept application for worley noise",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "html",
+    "procedural",
+    "generation",
+    "worley",
+    "noise"
+  ],
+  "author": "mjeffery",
+  "license": "apache",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-batch": "^1.0.5",
+    "gulp-connect": "^2.2.0",
+    "gulp-rev": "^6.0.1",
+    "gulp-uglify": "^1.4.2",
+    "gulp-usemin": "^0.3.14",
+    "gulp-watch": "^4.3.5"
+  }
+}

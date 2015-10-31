@@ -1,0 +1,25 @@
+{
+  "name": "worley-noise",
+  "version": "0.0.0",
+  "authors": [
+    "mjeffery <michael.jeffery@gmail.com>"
+  ],
+  "description": "Simple proof of concept application for worley noise",
+  "main": "index.html",
+  "keywords": [
+    "javascript",
+    "html",
+    "procedural",
+    "generation",
+    "worley",
+    "noise"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
